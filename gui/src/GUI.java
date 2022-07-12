@@ -36,6 +36,6 @@ public class GUI implements ActionListener {
 
     // create one Frame
     public static void main(String[] args) {
-        new loginGUI();
+        new GUI();
     }
 }
