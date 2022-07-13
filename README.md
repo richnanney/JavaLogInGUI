@@ -4,7 +4,7 @@ As a quick practice run of Java, and its GUI libraries, I made two programs -- a
 
 I saw the idea of this somewhere online, and wanted to figure out how I could make the program without watching the tutorial. I compared afterwards, but overall I think I did pretty well.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/o_qdNHlvTTQ)
 
 # Development Environment
 
